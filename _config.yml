@@ -1,7 +1,7 @@
 # Basic
 title: qiutian
-subtitle: 个人站
-description: 欢迎来到个人站~
+subtitle: person site
+description: welcome to my person site~
 # 头像里面的标题
 avatarTitle: qiutian00
 # 头像里面的描述
@@ -11,7 +11,7 @@ url: "#"
 # Comment
 comment:
     # disqus: leopard
-    duoshuo: leopard 
+    duoshuo: qiutian 
 
 # Social
 social:
