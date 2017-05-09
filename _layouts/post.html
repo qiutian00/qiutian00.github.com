@@ -1,39 +1,24 @@
 ---
-layout: master
+layout: default
 ---
-<div class='post'>
-  <span class='date'>{{page.date | date_to_string}}</span>
-  <h1><a href='{{page.url}}'>{{page.title}}</a></h1>
-  <div class='body'>{{ content }}</div>
-</div>
 
-<div class="related">
-  <h3>Related Posts</h3>
-  <table class="post-list">
-    {% for post in site.related_posts limit:3 %}
-      <tr>
-        <th><a href='{{ post.url }}'>{{ post.title }}</a></th>
-        <td>{{ post.date | date_to_string }}</td>
-        <td><a href='{{post.url}}#disqus_thread'>Comments</a></td>
-      </tr>
-    {% endfor %}
-  </table>
-</div>
+<article class="post-container post-container--single" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-meta">
+      <img src="/images/calendar.png" width="20px"/> 
+      <time datetime="{{page.date | date: date_to_xmlschema}}" itemprop="datePublished" class="post-meta__date date">{{page.date | date: "%F"}}</time>  
+         
+      <span id="busuanzi_container_page_pv"> | 阅读：<span id="busuanzi_value_page_pv"></span>次</span>
+    </p>
+    </div>
+  </header>
 
-<script type="text/javascript" charset="utf-8">
-  var disqus_url = "http://hzmook.github.com{{page.url}}";
-</script>
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'hzmook'; // required: replace example with your forum shortname
+  <section class="post">
+    {{ content }}
 
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+  </section>
+</article>
+
+{% include new-old.html %}
+{% include comments.html %}
