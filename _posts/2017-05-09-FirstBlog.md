@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "my first blog 啦啦》》》"
-date: 2015-08-25 
+date: 2017-05-09 
 description: "HEXO配置，HEXO+Github，搭建自己的博客"
 tag: 博客 
 ---   

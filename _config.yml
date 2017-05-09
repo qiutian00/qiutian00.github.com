@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
+title: qiutian
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 欢迎来到个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: qiutian00
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: java / hp
+url: "#"
 
 # Comment
 comment:
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 15115829405 
+    github: qiutian00
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 1476102147@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -60,6 +60,7 @@ nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 关于我, description: about, url: '/about'}      
+    - {title: 感谢~😆 地址, description: about, url: 'https://github.com/leopardpan/leopardpan.github.io'}      
     
 
 # Pagination
