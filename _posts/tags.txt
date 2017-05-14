@@ -1,0 +1,2 @@
+tags:thinks notes
+how to name .md file:xxxx-xx-xx-tags_function.md

@@ -1,9 +1,9 @@
 ﻿---
 layout: post
 title: "作业部落markdwon "
-date: 2015-09-26 18:15:06 
-description: "iOS9 变化笔记, 以及工作中常遇到的问题"
-tag: iOS
+date: 2017-05-09 18:15:06 
+description: "the same things is that we can do the thinks I like"
+tag: notes
 ---
 
 # 欢迎使用 Cmd Markdown 编辑阅读器
