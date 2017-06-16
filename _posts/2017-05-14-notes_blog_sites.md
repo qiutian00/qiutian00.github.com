@@ -9,7 +9,6 @@ tag: notes
 ## How to make my first blog
 标签 ： note
 
-------
 
 First I made my blog copy it from the [baixin](http://baixin.io) ... I really think of him,I can write the thing what I want in my blog...
 
