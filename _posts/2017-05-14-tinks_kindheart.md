@@ -6,13 +6,13 @@ description: "思绪很多，但总结了一下，归结为两点"
 tag: thinks
 ---
 
-## we need kind and love ,spreading  them around us...
+### we need kind and love ,spreading  them around us...
 
 ------
 
 我在当中，思考着，也是经过一次又一次go to the gradparents homes with the "friend"that they is all really together,I understand that my 思想 is 成熟了；I am sincerely thinkful of them and that I　should give the kinds of heart to everyone around us ;as the same reason  as  why do we live in the world,beacause we have the familys giving us the that kind because they is focoused on us ,so we should be happy no matter how difficult the trouble you get in,haha...
 
-## back to the conclusion
+### back to the conclusion
 
 ------
 
