@@ -6,7 +6,7 @@ description: "满满的正能量的"
 tag: thinks
 ---
 
-###我的感想的啊：
+### 我的感想的啊：
 
 ------
 
@@ -17,7 +17,7 @@ tag: thinks
 
 **总之，好的能量总是满满的（怀着好的心态，收获都是满满的回报，希望哦），我知道我的人生的价值是什么了啊**
 
-###My wishes for my futrue work
+### My wishes for my futrue work
 
 ------
 	
