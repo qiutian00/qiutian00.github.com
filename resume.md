@@ -43,7 +43,7 @@ my 博客源码在 <a target="_blank" href='https://github.com/qiutian00/qiutian
 <h3> 我的求职简历（发布11.07） </h3>  
 <p>
 
-<img src="/images/posts/resume/resume.png" width="550px;"> 
+<img src="/images/posts/resume/resume.png" > 
 
 <p>
 {% include comments.html %}
