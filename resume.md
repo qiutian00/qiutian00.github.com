@@ -40,12 +40,14 @@ my 博客源码在 <a target="_blank" href='https://github.com/qiutian00/qiutian
 参考博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 下，谢谢~
 **更新于`2017.08.12:补充我的学校，以及老师们的无私付出`**
 
-<h3> 我的求职简历（发布11.07） </h3>  
+<h3> 我的求职简历（发布11.07） <a href="/images/posts/resume/resume.png">下载简历</a>谢谢</h3>  
 <p>
 
 <img src="/images/posts/resume/resume.png" > 
 
+<br/>
 <p>
+
 {% include comments.html %}
 
 
