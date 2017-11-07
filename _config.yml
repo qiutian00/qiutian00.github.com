@@ -60,7 +60,8 @@ nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 关于我, description: about, url: '/about'}      
-    - {title: 感谢~😆 地址, description: about, url: 'https://github.com/leopardpan/leopardpan.github.io'}      
+    - {title: 感谢~😆 地址, description: about, url: 'https://github.com/leopardpan/leopardpan.github.io'} 
+    - {title: 求职简历, description: about, url: '/resume'} 
     
 
 # Pagination
