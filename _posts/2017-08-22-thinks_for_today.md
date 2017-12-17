@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-title: "thinks in the morning wating time and come across an accident before the day"
-date: 2017-08-12
-description: "important for lives"
+title: "Today of my feelings"
+date: 2017-08-22
+description: "feelings of me"
 tag: thinks
 ---
 

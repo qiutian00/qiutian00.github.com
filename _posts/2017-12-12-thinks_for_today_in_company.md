@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-title: "thinks in the morning wating time and come across an accident before the day"
-date: 2017-08-12
-description: "important for lives"
+title: "I want to write this blog"
+date: 2017-12-12
+description: "the reason of writing the blog"
 tag: thinks
 ---
 
