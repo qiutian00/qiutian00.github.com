@@ -1,0 +1,3 @@
+index:
+http://qiutian00.github.io/index.html
+ git push blog01 master
