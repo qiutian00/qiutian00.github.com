@@ -24,7 +24,7 @@ tag: thinks
 ### last
 > * cheering up ,doing it by my tasking with more things!
 
-** fighting ...  **
+**fighting ...**
 
 Writer by:`qiutian` from Hunan University of Humanities, Science and Technology.(I proud of the school the school teacher,also yhink  my school).
   
