@@ -1,11 +1,11 @@
 # Basic
 title: qiutian
 subtitle: person site
-description: welcome to my person site~
+description: welcome to my person site ~
 # 头像里面的标题
 avatarTitle: qiutian00
 # 头像里面的描述
-avatarDesc: java / hp
+avatarDesc: web / outing
 url: "#"
 
 # Comment
@@ -23,7 +23,7 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+    id: 50e45a95169311fbc74274744813f6ba  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
