@@ -16,7 +16,7 @@ tag: feelings
 
 ------
 	
-**总之，加油，小伙子，加油，秋天啊 `2017,08，12 ` 晚'**
+**总之，加油，小伙子，加油，秋天啊 `2017-08-12 ` 晚**
 
 Writer by:`qiutian` from Hunan University of Humanities, Science and Technology.(I proud of the school the school teacher,also yhink  my school).
   
