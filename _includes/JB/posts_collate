@@ -41,7 +41,7 @@ Usage:
       <span>
         {{ post.date | date: "%Y-%m-%e" }}
       </span>
-       &raquo; 
+       &gt;&gt; 
       <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </li>
  
