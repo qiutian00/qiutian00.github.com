@@ -3,11 +3,10 @@ layout: post
 title: "going out in the afernoon"
 date: 2017-05-15 16:23:06 
 description: "my feelings of nature"
-tag: notes
+tag: note
 ---
 
 ## my feelings of nature
-标签 ： note
 
 ------
 

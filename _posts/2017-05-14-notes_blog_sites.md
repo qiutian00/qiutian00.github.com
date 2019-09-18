@@ -3,7 +3,7 @@ layout: post
 title: "make the first post of blog"
 date: 2017-05-13 15:13:06 
 description: "How to make my first blog"
-tag: notes
+tag: note
 ---
 
 ## How to make my first blog
