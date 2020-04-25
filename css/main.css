@@ -501,14 +501,14 @@ img::-moz-selection {
     margin: 0 0 5px 0;
     margin-top: 20px;
     font-size: 1.8em;
-    letter-spacing: 4px;
+    /* letter-spacing: 4px; */
     color: #FFF; }
 
   .panel-subtitle {
     font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
     font-size: 0.6em;
     font-weight: lighter;
-    letter-spacing: 3px;
+    /* letter-spacing: 3px; */
     color: #CCCCCC;
     -webkit-font-smoothing: antialiased; }
 
