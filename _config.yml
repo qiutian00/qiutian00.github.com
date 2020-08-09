@@ -67,6 +67,7 @@ nav:
 # - {title: 求职简历, description: about, url: '/resume'}
 
 # Pagination
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
 paginate: 20
 paginate_path: "page/:num/"
