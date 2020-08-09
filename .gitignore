@@ -6,3 +6,7 @@ _site/
 .Trashes
 .vscode/
 vendor/bundle/*
+
+# run generate file
+.jekyll-cache/*
+.Gemfile.lock
