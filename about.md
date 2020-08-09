@@ -3,7 +3,7 @@ layout: page
 title: 关于我 
 ---
 
-一个 javaEE开发者，喜欢...。
+一个 javaEE开发者，现在是一枚小前端，喜欢...。
 来自湖南人文科技学院，非常感恩的是我在学校接触到了我的恩师，对我的思想的学习产生很大的影响！
 再者学校给我一个很好的学习的环境，只是我也没有去把握时间，或许也是多了一种不一样的替换吧！
 同时也非常感恩我的学校，给了我们成长的机会...
@@ -26,15 +26,9 @@ title: 关于我
 
 <p>
 
-如果你想搭建一个跟我一样的博客，可以看我的 
+如果你想搭建一个跟这样的博客，可以参考博客
 <a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
 教程
-
-<p>
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-<p> 
 
 my 博客源码在 <a target="_blank" href='https://github.com/qiutian00/qiutian00.github.com/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 参考博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 下，谢谢~
