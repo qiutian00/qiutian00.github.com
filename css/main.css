@@ -813,6 +813,7 @@ img::-moz-selection {
   }
   .post-list li {
     margin: 0 0 2.2em 0;
+    width: 100%;
     float: left;
 
     -moz-box-shadow:4px 4px 4px #efefef, 
