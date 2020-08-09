@@ -9,4 +9,4 @@ vendor/bundle/*
 
 # run generate file
 .jekyll-cache/*
-.Gemfile.lock
+Gemfile.lock
